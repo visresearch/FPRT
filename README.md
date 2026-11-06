@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1>FPRT</h1>
-<h3>Failure Profiling and Reachable Trajectory Selection<br>for Reasoning Distillation</h3>
+<h3>FPRT: Failure Profiling and Reachable Trajectory Selection<br>for Reasoning Distillation</h3>
 
 <p>
   <a href="https://github.com/visresearch/FPRT"><img src="https://img.shields.io/badge/Code-GitHub-181717.svg?logo=github&logoColor=white" alt="Code"></a>
