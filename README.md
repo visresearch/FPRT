@@ -146,9 +146,10 @@ Model weights and training datasets are available on Hugging Face.
 If you use this work, please cite:
 
 ```bibtex
-@misc{zhu2026fprt,
-  title={Failure Profiling and Reachable Trajectory Selection for Reasoning Distillation},
-  author={Zhu, Yijun and Wang, Jianxin and Shen, Chengchao},
-  year={2026}
+@article{zhu2026failure,
+    author  = {Zhu, Yijun and Wang, Jianxin and Shen, Chengchao},
+    title   = {LiBrA-Net: Lie-Algebraic Bilateral Affine Fields for Real-Time 4K Video Dehazing},
+    booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+    year    = {2026},
 }
 ```
