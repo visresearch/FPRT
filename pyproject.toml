@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fprt"
+version = "0.1.0"
+description = "Single-pass FPRT data construction and full-parameter SFT"
+requires-python = ">=3.10"
+dependencies = ["openai>=1.0", "tqdm>=4.0"]
+
+[project.optional-dependencies]
+scoring = ["torch>=2.4", "transformers>=4.51,<5", "sentencepiece", "accelerate"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+fprt = ["prompt_templates.json"]

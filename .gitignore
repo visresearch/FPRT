@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.env
+outputs/
+data/
+saves/
+logs/
+.venv/
+!assets/framework.png
