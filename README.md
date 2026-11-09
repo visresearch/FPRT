@@ -148,7 +148,7 @@ If you use this work, please cite:
 ```bibtex
 @article{zhu2026failure,
     author  = {Zhu, Yijun and Wang, Jianxin and Shen, Chengchao},
-    title   = {LiBrA-Net: Lie-Algebraic Bilateral Affine Fields for Real-Time 4K Video Dehazing},
+    title   = {Failure Profiling and Reachable Trajectory Selection for Reasoning Distillation},
     booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
     year    = {2026},
 }
