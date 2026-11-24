@@ -17,7 +17,7 @@ Chengchao Shen<sup>1, ✉</sup>
 <p><sup>1</sup>School of Computer Science and Engineering, Central South University</p>
 <p><sup>✉</sup>Corresponding author</p>
 
-<img src="assets/framework.png" width="100%" alt="FPRT pipeline: behavioral error profiling, adaptive correction generation, and branching point reachability scoring">
+<img src="assets/motivation.png" width="100%">
 
 </div>
 
